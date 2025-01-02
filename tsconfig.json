@@ -18,7 +18,7 @@
     "allowJs": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
-    "types": ["node", "vite/client", "react", "react-dom"],
+    "types": ["vite/client"],
     "paths": {
       "@/*": ["./src/*"]
     }
